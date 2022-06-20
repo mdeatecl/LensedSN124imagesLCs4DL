@@ -2,9 +2,9 @@ The LensedSN124imagesLCs4DL repository contains the data accompanying the manusc
 
 There are 3 data sets used in Sec. 2 of the paper each containing  10 000 simulated lightcurves in g, r, i bands: 
  
- * T124_gslsne_data.zip   - 1, 2, and 4 image systems (46M);
- * T2_gslsne_data.zip  - 2 image systems (43M);
- * T4_gslsne_data.zip  - 4 image systems (59M). 
+ * T124_gslsne_data.zip   - 1, 2, and 4 image systems (46M/224M);
+ * T2_gslsne_data.zip  - 2 image systems (43M/198M);
+ * T4_gslsne_data.zip  - 4 image systems (59M/276M). 
 
 The system ID is indicated in the filename after sys_ keyword.  The ASCII files in the zip archives start with a header listing the number of images n_images in the system and time delays relative to the first image for n_images>1. The lightcurve data are stored in columns:
 
